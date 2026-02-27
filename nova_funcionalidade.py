@@ -1,0 +1,1 @@
+print("Implementação solicitada pelo cliente")
